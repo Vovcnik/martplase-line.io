@@ -1,0 +1,1310 @@
+                                        @media(max-width:1400px) {
+                                            .list__page-inner {
+                                                left: -452px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:1260px) {
+                                            .contact__inner .contact__content {
+                                                display: block;
+                                                .contact__inner-item {
+                                                    margin-right: 0px;
+                                                    margin-bottom: 30px;
+                                                    width: 100%;
+                                                    margin-left: 0;
+                                                }
+                                            }
+                                            .list__page-inner {
+                                                left: -445px;
+                                            }
+                                            .create__tabs-inner .text {
+                                                padding: 0 20px;
+                                            }
+                                            .messages__menu {
+                                                left: -312px;
+                                                &::before {
+                                                    left: 315px;
+                                                }
+                                            }
+                                            .notification__menu {
+                                                left: -267px;
+                                                &::before {
+                                                    left: 270px;
+                                                }
+                                            }
+                                            .list__page-item {
+                                                flex-wrap: wrap;
+                                                width: 720px;
+                                            }
+                                            .create__tabs-inner {
+                                                display: block;
+                                            }
+                                            .create__tabs-inner .tabs-item {
+                                                width: 100%;
+                                            }
+                                            .create__tabs-inner .items {
+                                                margin-bottom: 40px;
+                                            }
+                                            .slaider__caption-box {
+                                                width: 100%;
+                                            }
+                                            .release__products-menu {
+                                                display: flex;
+                                                flex-wrap: wrap;
+                                                button {
+                                                    margin: 10px 10px;
+                                                    width: 100%;
+                                                }
+                                            }
+                                            .release__products-menu button+button {
+                                                margin-left: 10px;
+                                            }
+                                            .border.btn {
+                                                top: 53px;
+                                            }
+                                            .category__page-top {
+                                                min-height: 150px;
+                                            }
+                                            .category__page-inner {
+                                                justify-content: center;
+                                                position: relative;
+                                            }
+                                            .product-filter {
+                                                position: absolute;
+                                                top: 76px;
+                                            }
+                                            .mix__item {
+                                                margin-right: 20px;
+                                            }
+                                            .mix__item-img {
+                                                display: none;
+                                            }
+                                            .blog02 .content__blogs {
+                                                display: block;
+                                            }
+                                            .content__blogs-item {
+                                                margin: 0 auto;
+                                            }
+                                            .blog-post {
+                                                margin-right: 27px;
+                                            }
+                                            .blog-post.sidebar__column {
+                                                padding: 0;
+                                                height: 100%;
+                                            }
+                                            .blog-post.popular-tags {
+                                                height: 100%;
+                                            }
+                                            .blog-post.blogs__item-search {
+                                                height: 200px;
+                                            }
+                                            .content__blogs-aside .blogs__aside-inner {
+                                                display: flex;
+                                                flex-wrap: wrap;
+                                                margin-bottom: 30px;
+                                                justify-content: left;
+                                            }
+                                            //  {.header__menu
+                                            //     height: 0;
+                                            // }
+                                            .banner {
+                                                margin-right: 23px;
+                                                margin-top: -301px;
+                                            }
+                                            .blog-post.sidebar__column {
+                                                margin-top: -355px;
+                                            }
+                                            .category__page-inner.favorites__page-inner {
+                                                justify-content: space-around;
+                                                .category__page-filter .jq-selectbox {
+                                                    right: 5px;
+                                                }
+                                                .border.btn {
+                                                    top: 0px;
+                                                }
+                                            }
+                                            .favorites__page.category__page-top {
+                                                min-height: 100px;
+                                            }
+                                            .favorites__inner .mix__wordpress-themes {
+                                                justify-content: center;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:1190px) {
+                                            .header__seling.active,
+                                            .register {
+                                                display: none;
+                                            }
+                                            .basket__box {
+                                                margin-right: 0;
+                                            }
+                                            .list__page-inner {
+                                                flex-wrap: wrap;
+                                                display: flex;
+                                                justify-content: flex-start;
+                                                // min-height: 1310px;
+                                            }
+                                            .footer__inner {
+                                                flex-wrap: wrap;
+                                                margin-left: 10px;
+                                            }
+                                            .footer__col .footer__col-menu {
+                                                left: 60px;
+                                            }
+                                            .menu {
+                                                .search__header-top {
+                                                    display: none;
+                                                }
+                                            }
+                                            .menu {
+                                                justify-content: normal;
+                                            }
+                                            .menu__list {
+                                                display: none;
+                                                left: 15px;
+                                            }
+                                            .menu__btn {
+                                                display: block;
+                                                width: 30px;
+                                                top: 45px;
+                                                position: absolute;
+                                                div {
+                                                    background-color: #555555;
+                                                    height: 3px;
+                                                    &+div {
+                                                        margin-top: 5px;
+                                                    }
+                                                }
+                                            }
+                                            .list__pages {
+                                                position: absolute;
+                                                left: -480px;
+                                            }
+                                            .header__logo-help {
+                                                margin-left: 50px;
+                                            }
+                                            .work__columms-acount {
+                                                .columms-item-inner {
+                                                    display: block;
+                                                    text-align: center;
+                                                    .work__columms-text {
+                                                        margin-left: 0;
+                                                        max-width: 500px;
+                                                        margin: 0 auto;
+                                                    }
+                                                    img {
+                                                        width: 100%;
+                                                        padding-bottom: 30px;
+                                                    }
+                                                }
+                                                .work__columms-text:nth-last-child(2) {
+                                                    margin: 30px auto;
+                                                }
+                                            }
+                                            .resposive {
+                                                .theme__valley-inner {
+                                                    display: block;
+                                                }
+                                                .resposive__tab-inner {
+                                                    margin: 30px auto;
+                                                }
+                                                .responsive__aside-inner {
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                    justify-content: space-evenly;
+                                                    .product__info-aside span {
+                                                        position: static;
+                                                        padding-left: 30px;
+                                                        display: inline-flex;
+                                                    }
+                                                }
+                                                .theme__valley-preview img {
+                                                    max-width: 750px;
+                                                    width: 100%;
+                                                }
+                                                .responsive__aside-columms+.responsive__aside-columms {
+                                                    margin-right: 20px;
+                                                }
+                                                .responsive__aside {
+                                                    margin-left: 0px;
+                                                }
+                                                .theme__valley-title {
+                                                    line-height: 35px;
+                                                }
+                                            }
+                                        }
+                                        
+                                        @media(max-width:1160px) {
+                                            .create__search {
+                                                input {
+                                                    width: 100%;
+                                                    max-width: 375px;
+                                                }
+                                                form {
+                                                    justify-content: center;
+                                                }
+                                            }
+                                            .border-left {
+                                                .jq-selectbox__select.jq-selectbox__select {
+                                                    left: 200px;
+                                                }
+                                                .jq-selectbox__dropdown {
+                                                    left: 208px;
+                                                }
+                                            }
+                                            .mix__wordpress-themes {
+                                                justify-content: center;
+                                            }
+                                            .pricing__plan-inner {
+                                                justify-content: center;
+                                            }
+                                            .pricing__plan-item {
+                                                margin-bottom: 30px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:1150px) {
+                                            .list__page-inner {
+                                                left: -452px;
+                                                min-width: 720px;
+                                            }
+                                            .product__item-img img {
+                                                display: none;
+                                            }
+                                            .product__item-images img {
+                                                display: none;
+                                            }
+                                            .product__item-content {
+                                                width: 100%;
+                                                padding-left: 20px;
+                                                padding-top: 30px;
+                                                p {
+                                                    padding-bottom: 20px;
+                                                    padding-top: 20px;
+                                                    padding-right: 10px;
+                                                }
+                                            }
+                                            .clients__feedback-inner {
+                                                display: block;
+                                            }
+                                            .clients__feedback-item {
+                                                margin: 20px auto;
+                                                height: 100%;
+                                            }
+                                            .latesr__news-inner {
+                                                flex-wrap: wrap;
+                                                justify-content: center;
+                                            }
+                                            .latest__news-item {
+                                                margin-bottom: 30px;
+                                            }
+                                            .money__back-inner {
+                                                display: block;
+                                            }
+                                            .money__back-item {
+                                                border-bottom: 1px solid #e8eaf3;
+                                                border-right: none;
+                                                margin: 0 auto;
+                                                padding-right: 0;
+                                            }
+                                            .money__back-text {
+                                                padding-top: 0;
+                                                line-height: 28px;
+                                            }
+                                            .money__support-item {
+                                                margin: 0 auto;
+                                            }
+                                            .create__search {
+                                                input {
+                                                    width: 100%;
+                                                    max-width: 675px;
+                                                }
+                                            }
+                                            .border-left {
+                                                .jq-selectbox__select.jq-selectbox__select {
+                                                    left: 34px;
+                                                }
+                                                .jq-selectbox__dropdown {
+                                                    left: 43px;
+                                                }
+                                            }
+                                            .favorites__item-head .product__item-title {
+                                                line-height: 24px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:1020px) {
+                                            .category__page-inner.favorites__page-inner {
+                                                padding-top: 20px;
+                                                .border.btn {
+                                                    display: none;
+                                                }
+                                            }
+                                            .favorites__page-inner {
+                                                .jq-selectbox__select {
+                                                    margin-left: 10px;
+                                                    margin-bottom: 20px;
+                                                }
+                                                .jq-selectbox {
+                                                    top: 0px;
+                                                }
+                                                .filter__by {
+                                                    margin-right: 20px;
+                                                }
+                                            }
+                                        }
+                                        
+                                        @media(max-width:900px) {
+                                            .footer__col {
+                                                margin-bottom: 10px;
+                                            }
+                                            .contact__inner {
+                                                .messages__inner-item {
+                                                    input {
+                                                        margin: 10px;
+                                                        width: 100%;
+                                                        max-width: 780px
+                                                    }
+                                                    p {
+                                                        width: 100%;
+                                                    }
+                                                    textarea {
+                                                        margin: 10px;
+                                                    }
+                                                }
+                                            }
+                                            .products-title {
+                                                font-size: 20px;
+                                            }
+                                            .info-inner {
+                                                flex-wrap: wrap;
+                                                .item {
+                                                    padding: 20px;
+                                                }
+                                            }
+                                            .start-shopping__inner {
+                                                display: block;
+                                            }
+                                            .resposive {
+                                                .responsive__aside-inner {
+                                                    justify-content: center;
+                                                }
+                                            }
+                                        }
+                                        
+                                        @media(max-width:940px) {
+                                            .border.btn {
+                                                display: none;
+                                            }
+                                            .mix__item {
+                                                display: none;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:800px) {
+                                            .content__blogs-head .content__blogs-title a {
+                                                line-height: 40px;
+                                            }
+                                            .blog02 .pagination-blog {
+                                                display: flex;
+                                                justify-content: center;
+                                            }
+                                            .content__blogs-aside .blogs__aside-inner {
+                                                display: flex;
+                                                flex-wrap: wrap;
+                                                margin-bottom: 30px;
+                                                justify-content: center;
+                                            }
+                                            //  {.header__menu
+                                            //     height: 0;
+                                            // }
+                                            .banner {
+                                                margin-right: 23px;
+                                                margin-top: 0px;
+                                            }
+                                            .blog-post.sidebar__column {
+                                                margin-top: 0px;
+                                            }
+                                            .resposive__tab-inner {
+                                                .resposive__tabs-columms {
+                                                    padding-bottom: 0px;
+                                                }
+                                                .resposive__tabs-text {
+                                                    line-height: 30px;
+                                                    padding-bottom: 30px;
+                                                }
+                                                .resposive__tabs-title {
+                                                    font-size: 28px;
+                                                    color: #000;
+                                                    padding-bottom: 40px;
+                                                    line-height: 30px;
+                                                }
+                                            }
+                                        }
+                                        
+                                        @media(max-width:770px) {
+                                            .release__products-inner {
+                                                justify-content: center;
+                                            }
+                                            .pagination {
+                                                text-align: left;
+                                                max-width: 500px;
+                                            }
+                                            .category__inner {
+                                                display: block;
+                                            }
+                                            .pagination {
+                                                text-align: center;
+                                                max-width: 100%;
+                                            }
+                                            aside.product-page__aside {
+                                                display: flex;
+                                                flex-wrap: wrap;
+                                                justify-content: center;
+                                                margin-right: 0px;
+                                            }
+                                            .sidebar__column {
+                                                margin-right: 15px;
+                                                display: inline-table;
+                                            }
+                                            .category__page-top {
+                                                margin-bottom: 0;
+                                            }
+                                            .blog-post {
+                                                margin-right: 5px;
+                                            }
+                                            .banner {
+                                                margin-right: 7px;
+                                                margin-top: 0px;
+                                            }
+                                            .category__page-filter .jq-selectbox {
+                                                margin-right: -60px;
+                                            }
+                                            .pricing__plan-inner .pricing__plan-item+.pricing__plan-item {
+                                                margin-left: 3px;
+                                            }
+                                            .pricing__plan-inner.pricing__plan-item-blue {
+                                                margin-left: 20px;
+                                            }
+                                            .resposive__tabs {
+                                                flex-wrap: wrap;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:735px) {
+                                            .list__page-item {
+                                                flex-wrap: wrap;
+                                                width: 500px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:720px) {
+                                            .lisi-two {
+                                                width: 60%;
+                                                margin-top: 30px;
+                                                margin-bottom: 30px;
+                                            }
+                                            .slaider__caption-box .title {
+                                                font-size: 25px;
+                                            }
+                                            .info-inner {
+                                                justify-content: center;
+                                            }
+                                            .create__search {
+                                                display: none;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:680px) {
+                                            .lisi-two {
+                                                padding-top: 30px;
+                                            }
+                                            .category__page-inner {
+                                                margin-right: 80px;
+                                            }
+                                            .product-filter {
+                                                position: static;
+                                                text-align: end;
+                                            }
+                                            .category__page-filter .jq-selectbox {
+                                                padding-bottom: 20px;
+                                            }
+                                            .category__page-top {
+                                                min-height: 220px;
+                                            }
+                                            .border.btn {
+                                                top: 80px;
+                                                left: -5px;
+                                            }
+                                            .breadcrumbs__inner h1 {
+                                                line-height: 40px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:650px) {
+                                            .header__clik {
+                                                padding-right: 10px;
+                                                margin-left: 40px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:600px) {
+                                            .profile__list {
+                                                right: 0;
+                                                &::before {
+                                                    left: 200px;
+                                                }
+                                            }
+                                            .basket-menu__inner {
+                                                display: block;
+                                                padding: 10px 12px 10px 0px;
+                                                img {
+                                                    display: none;
+                                                }
+                                            }
+                                            .basket-total {
+                                                margin-right: 16px;
+                                            }
+                                            .notification__box,
+                                            .messages__box {
+                                                display: none;
+                                            }
+                                            .price-product__inner {
+                                                justify-content: space-between;
+                                            }
+                                            .basket__box .basket-menu {
+                                                width: 300px;
+                                                margin-left: 5px;
+                                            }
+                                            .info-inner {
+                                                padding-top: 30px;
+                                            }
+                                            .start-shoping__text p {
+                                                padding: 0 20px;
+                                            }
+                                            .footer__ready-title {
+                                                font-size: 32px;
+                                            }
+                                            ul.content__blogs-social {
+                                                display: block;
+                                            }
+                                            .content__blogs-item .content__blogs-text p {
+                                                line-height: 40px;
+                                                font-size: 18px;
+                                            }
+                                            .category__page-inner.favorites__page-inner {
+                                                display: block;
+                                                .filter__by-title {
+                                                    color: #000000;
+                                                    font-size: 24px;
+                                                    padding-bottom: 20px;
+                                                }
+                                                .filter__by {
+                                                    margin: 15px auto;
+                                                    border-left: none;
+                                                    border-right: none;
+                                                    border-bottom: 1px solid #eceff2;
+                                                    border-top: 1px solid #eceff2;
+                                                    justify-content: center;
+                                                    width: 100%;
+                                                }
+                                            }
+                                            .category__page-filter .jq-selectbox {
+                                                margin-right: 0;
+                                            }
+                                            .favorites__page-inner.category__page-inner {
+                                                margin-right: 0;
+                                            }
+                                            .mix__item {
+                                                margin-right: 0px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:580px) {
+                                            .menu__list li.li__top {
+                                                display: block;
+                                                a {
+                                                    color: #fff;
+                                                }
+                                            }
+                                            .header__menu {
+                                                height: 0;
+                                            }
+                                            .item-title-1,
+                                            .item-title-3 {
+                                                width: 100%;
+                                            }
+                                            .sub-menu__list {
+                                                border: none;
+                                                top: 65px;
+                                                left: 5px;
+                                            }
+                                            .menu__list li.li__top .sub-menu__list a {
+                                                color: #555555;
+                                            }
+                                            .menu__list li.li__top .sub-menu__list li:hover a {
+                                                color: #fff;
+                                            }
+                                            .list__pages {
+                                                left: 0px;
+                                                width: 90%;
+                                                top: 66px;
+                                            }
+                                            .list-page li a {
+                                                width: 100%;
+                                                // background-color: #262b30;
+                                                top: -34px;
+                                                height: 300px;
+                                                left: 35px;
+                                            }
+                                            .menu__list .list {
+                                                margin-top: 20px;
+                                                margin-bottom: 10px;
+                                            }
+                                            .list__page {
+                                                background-color: #262b30;
+                                                text-align: center;
+                                                color: #fff;
+                                                li.li__top {
+                                                    border-bottom: 1px solid #fff;
+                                                    color: #fff;
+                                                }
+                                            }
+                                            .menu__list li.li__top+li {
+                                                margin-left: 0;
+                                            }
+                                            .menu {
+                                                display: block;
+                                            }
+                                            .menu li {
+                                                padding-bottom: 10px;
+                                            }
+                                            .menu__list {
+                                                display: none;
+                                                left: 0px;
+                                                top: -14px;
+                                            }
+                                            .ready__title {
+                                                padding: 80px 15px 10px;
+                                                line-height: 43px;
+                                            }
+                                            .product-filter {
+                                                position: absolute;
+                                                top: 0px;
+                                                left: 160px;
+                                            }
+                                            .category__page-inner {
+                                                padding-top: 80px;
+                                            }
+                                            .border.btn {
+                                                top: 80px;
+                                                left: -90px;
+                                            }
+                                            .category__page-inner {
+                                                margin-right: 0px;
+                                            }
+                                            .category__page-filter .jq-selectbox {
+                                                right: 0px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:570px) {
+                                            .product__item-footer-inner {
+                                                display: block;
+                                            }
+                                            .followers-title {
+                                                font-size: 20px;
+                                            }
+                                            .choose__title {
+                                                line-height: 40px;
+                                            }
+                                            .feedback-title::before {
+                                                display: none;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:520px) {
+                                            .menu__list {
+                                                display: none;
+                                            }
+                                            .list__page-item {
+                                                flex-wrap: wrap;
+                                                width: 300px;
+                                            }
+                                            .menu__btn {
+                                                display: block;
+                                            }
+                                            .header__btn-menu {
+                                                display: block;
+                                            }
+                                            .header__btn-menu {
+                                                width: 70px;
+                                                height: 100px;
+                                                position: absolute;
+                                                background-color: #0674ec;
+                                                right: -15px;
+                                                top: -15px;
+                                                cursor: pointer;
+                                                &::before {
+                                                    position: absolute;
+                                                    top: 50%;
+                                                    left: 50%;
+                                                    transform: translate(-50%, -50%);
+                                                    font-size: 36px;
+                                                    color: #fff;
+                                                }
+                                            }
+                                            .Others__Pages,
+                                            .martplace__page-item {
+                                                display: block;
+                                            }
+                                            .header__box {
+                                                transition: all .5s;
+                                                transform: translateX(100%);
+                                                &.active {
+                                                    transform: translateX(-50%);
+                                                    transition: all .5s;
+                                                }
+                                            }
+                                            .basket__box .basket-menu {
+                                                z-index: 20;
+                                                right: -106px;
+                                                &::before {
+                                                    right: 106px;
+                                                }
+                                            }
+                                            .slaider__caption-box .title {
+                                                padding: 30px;
+                                            }
+                                            .slick-next.slick-arrow {
+                                                right: 107px;
+                                            }
+                                            .info-inner {
+                                                padding-top: 30px;
+                                            }
+                                            .info-inner .item {
+                                                padding: 30px;
+                                            }
+                                            .breadcrumbs-inner p {
+                                                color: #FFF;
+                                                font-size: 22px;
+                                                line-height: 30px;
+                                                padding-bottom: 15px;
+                                                width: 300px;
+                                                margin: 0 auto;
+                                            }
+                                            .preview-btn {
+                                                button {
+                                                    margin-bottom: 20px;
+                                                }
+                                            }
+                                            .theme__valley-footer .preview-btn button:last-child {
+                                                margin-left: 0;
+                                            }
+                                            .theme__valley-footer .theme__valley-social {
+                                                display: block;
+                                                text-align: center;
+                                                .footer__social-link {
+                                                    max-width: 200px;
+                                                    margin: 0 auto;
+                                                    padding-top: 30px;
+                                                }
+                                                button {
+                                                    margin-left: 0;
+                                                }
+                                            }
+                                        }
+                                        
+                                        @media(max-width:500px) {
+                                            .clients__feedback-item {
+                                                padding: 40px 15px;
+                                            }
+                                            .basket-menu {
+                                                left: -100px;
+                                            }
+                                            .basket__box .basket-menu::before {
+                                                left: 100px;
+                                            }
+                                            .product-btn li {
+                                                display: block;
+                                            }
+                                            .product-btn li+li {
+                                                margin-left: 0px;
+                                                margin-top: 10px;
+                                            }
+                                            .products-title {
+                                                padding-bottom: 10px;
+                                            }
+                                            .release__products-title {
+                                                display: block;
+                                                padding: 20px;
+                                            }
+                                            .products-title__filter::before {
+                                                left: 100px;
+                                                top: 63px;
+                                            }
+                                            .slaider__caption-box .title {
+                                                font-size: 20px;
+                                                padding: 25px 20px;
+                                            }
+                                            .caption__control {
+                                                &::after {
+                                                    left: 12px;
+                                                }
+                                                &::before {
+                                                    right: 12px;
+                                                }
+                                            }
+                                            .jq-ry-container {
+                                                padding: 12px 5px 0px 0px;
+                                            }
+                                            .category__page-inner {
+                                                padding-top: 60px;
+                                            }
+                                            .product-filter {
+                                                position: absolute;
+                                                top: 0px;
+                                                left: 0;
+                                                max-width: 100%;
+                                            }
+                                            .border.btn {
+                                                top: 80px;
+                                                left: -190px;
+                                            }
+                                            .product-filter {
+                                                position: absolute;
+                                                top: 0px;
+                                                left: 90px;
+                                                max-width: 100%;
+                                            }
+                                            .pagination__list {
+                                                li {
+                                                    display: none;
+                                                }
+                                                li:first-child {
+                                                    display: inline-block;
+                                                }
+                                                li:last-child {
+                                                    display: inline-block;
+                                                }
+                                                li:nth-child(2) {
+                                                    display: inline-block;
+                                                }
+                                                li:nth-child(4) {
+                                                    display: inline-block;
+                                                }
+                                            }
+                                            .content__blogs-head .content__blogs-title p {
+                                                font-size: 25px;
+                                            }
+                                            .breadcrumbs__inner h1 {
+                                                font-size: 1em;
+                                            }
+                                            .resposive__tab-inner .resposive__tabs-title {
+                                                font-size: 22px;
+                                                color: #000;
+                                                padding-bottom: 40px;
+                                                line-height: 30px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:470px) {
+                                            .list__pages {
+                                                left: 0px;
+                                                width: 70%px;
+                                                top: 66px;
+                                                border: 1px solid #0000;
+                                                border-bottom: 2px solid royalblue;
+                                            }
+                                            .create__title h1 {
+                                                font-size: 40px;
+                                                line-height: 40px;
+                                            }
+                                            .creat__inner p {
+                                                line-height: 35px;
+                                            }
+                                            .footer__col .footer__col-menu {
+                                                left: 0px;
+                                            }
+                                            .header__box {
+                                                transition: all .5s;
+                                                transform: translateX(100%);
+                                                &.active {
+                                                    transform: translateX(-73%);
+                                                    transition: all .5s;
+                                                }
+                                            }
+                                            .footer__ready-title {
+                                                line-height: 40px;
+                                            }
+                                            .resposive .responsive__aside-columms+.responsive__aside-columms {
+                                                margin-right: 0px;
+                                            }
+                                            .resposive .theme__valley-title {
+                                                font-size: 24px;
+                                                ;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:450px) {
+                                            .feedback-title::before {
+                                                display: none;
+                                            }
+                                            .product-filter {
+                                                position: absolute;
+                                                top: -8px;
+                                                left: 27px;
+                                                max-width: 100%;
+                                            }
+                                            .category__page-filter .jq-selectbox__select {
+                                                margin-top: 10px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:420px) {
+                                            .footer__search {
+                                                width: 100%;
+                                            }
+                                            .followers-title {
+                                                padding-top: 15px;
+                                            }
+                                            .slaider__followers-inner {
+                                                .product__item-footer {
+                                                    .rate-stars.jq-ry-container {
+                                                        left: 64px;
+                                                    }
+                                                    .product__item-market {
+                                                        right: 118px;
+                                                    }
+                                                }
+                                            }
+                                            .breadcrumbs-inner p {
+                                                font-size: 20px;
+                                                line-height: 30px;
+                                            }
+                                            .breadcrumbs-inner p {
+                                                font-size: 18px;
+                                            }
+                                            .plan-title {
+                                                font-size: 36px;
+                                                color: #000;
+                                                padding-bottom: 30px;
+                                                line-height: 36px;
+                                            }
+                                        }
+                                        
+                                        @media(max-width:400px) {
+                                            .release__products-item {
+                                                width: 100%;
+                                                .product__item-content {
+                                                    width: 100%;
+                                                }
+                                                .products__item-images img {
+                                                    width: 100%;
+                                                }
+                                                .product__item-market {
+                                                    font-family: 'Quicksand', sans-serif;
+                                                    font-weight: 300;
+                                                    line-height: 30px;
+                                                    position: relative;
+                                                    padding-left: 46px;
+                                                    color: #0674ec;
+                                                    right: 8px;
+                                                }
+                                                .product__item-market::before {
+                                                    left: 85px;
+                                                }
+                                                .product__item-footer.footer-star {
+                                                    .rate-stars {
+                                                        display: none;
+                                                    }
+                                                }
+                                            }
+                                            .slaider__followers-item {
+                                                height: 100%;
+                                                .products__item-images img {
+                                                    max-width: 100%;
+                                                }
+                                                .product__item-content p {
+                                                    padding-right: 30px;
+                                                }
+                                                .rate-stars.jq-ry-container {
+                                                    display: none;
+                                                }
+                                                .footer-star {
+                                                    .product__item-market {
+                                                        right: 43px;
+                                                    }
+                                                }
+                                            }
+                                            .product__item-inner {
+                                                .product__item-market {
+                                                    padding-left: 43px;
+                                                    .product__item-market::before {
+                                                        left: 22px;
+                                                    }
+                                                    .jq-ry-container {
+                                                        display: none;
+                                                    }
+                                                }
+                                                .product__item-market {
+                                                    top: 40px;
+                                                    right: 76px;
+                                                }
+                                                .product__item-heart {
+                                                    font-family: 'Quicksand', sans-serif;
+                                                    font-weight: 300;
+                                                    line-height: 30px;
+                                                    position: relative;
+                                                    padding-left: 46px;
+                                                    right: -28px;
+                                                    margin-right: 5px;
+                                                }
+                                            }
+                                            .product__item-title {
+                                                font-size: 20px;
+                                                line-height: 20px;
+                                            }
+                                            .product__item-list {
+                                                display: none;
+                                            }
+                                            .followers__control {
+                                                &::after {
+                                                    left: 15px;
+                                                }
+                                                &::before {
+                                                    right: 15px;
+                                                }
+                                            }
+                                            button.slick-prev {
+                                                right: 52px;
+                                            }
+                                            .latesr__news-inner {
+                                                display: block;
+                                                img {
+                                                    width: 100%;
+                                                }
+                                            }
+                                            .prod__item-img {
+                                                display: none;
+                                            }
+                                            .slick-next.slick-arrow {
+                                                right: 91px;
+                                            }
+                                            .product__item-box {
+                                                display: flex;
+                                                flex-wrap: wrap;
+                                                justify-content: space-around;
+                                                margin-bottom: 15px;
+                                            }
+                                            .item-desc+.item-desc {
+                                                margin-left: 0px;
+                                            }
+                                            .item-desc {
+                                                margin-bottom: 15px;
+                                                display: block;
+                                            }
+                                            .product__item-content {
+                                                padding-right: 20px;
+                                            }
+                                            .news__img {
+                                                height: 203px;
+                                            }
+                                            .release__products-item .product__item-market.icon-map-marker::before {
+                                                left: 75px;
+                                                top: 2px;
+                                            }
+                                            .slaider__caption-box .title {
+                                                padding: 15px 30px;
+                                            }
+                                            .feedback-title {
+                                                padding: 10px;
+                                            }
+                                            .blog-post.popular-tags ul li {
+                                                margin-right: 16px;
+                                                margin-bottom: 35px;
+                                            }
+                                            .category__page .favorites__inner {
+                                                display: block;
+                                                .mix__items-img img {
+                                                    max-width: 361px;
+                                                    width: 100%;
+                                                }
+                                                .product__item-row {
+                                                    display: block;
+                                                }
+                                                .product__item-col+.product__item-col {
+                                                    padding-left: 0px;
+                                                }
+                                                .product__item-footer-inner {
+                                                    display: flex;
+                                                }
+                                            }
+                                            .category__page .favorites__inner .product__item-footer-inner {
+                                                .item__info {
+                                                    display: block;
+                                                }
+                                                .rate-stars.jq-ry-container {
+                                                    padding-bottom: 5px;
+                                                    padding-top: 5px;
+                                                    top: -10px;
+                                                    left: -13px;
+                                                }
+                                                .item__info-prise-heard {
+                                                    display: block;
+                                                }
+                                                .product__item-heart::before {
+                                                    left: 2px;
+                                                }
+                                                .product__item-heart {
+                                                    padding-left: 30px;
+                                                }
+                                                .product__item-market::before {
+                                                    top: 1px;
+                                                    left: 2px;
+                                                }
+                                                .product__item-market {
+                                                    padding-left: 30px;
+                                                }
+                                                .product__item-price {
+                                                    background-color: #e6f1fd;
+                                                    color: #0674ec;
+                                                    max-width: 62px;
+                                                }
+                                            }
+                                            .login__item p {
+                                                font-size: 18px;
+                                                line-height: 35px;
+                                                text-align: center;
+                                            }
+                                            .login__item .login__search button.login__btn {
+                                                padding: 20px 43px;
+                                            }
+                                            .login__back-inner .footer__text {
+                                                display: block;
+                                                p+p {
+                                                    padding-top: 20px;
+                                                }
+                                            }
+                                        }
+                                        
+                                        @media(max-width:370px) {
+                                            .footer__col {
+                                                margin-bottom: 10px;
+                                                left: -4px;
+                                            }
+                                            .slick-next.slick-arrow {
+                                                right: 83px;
+                                            }
+                                            .create__title h1 {
+                                                font-size: 30px;
+                                            }
+                                            .header__box {
+                                                transition: all .5s;
+                                                transform: translateX(100%);
+                                                background-color: #eef1f3;
+                                                &.active {
+                                                    transform: translateX(-90%);
+                                                    transition: all .5s;
+                                                }
+                                                .logo-text {
+                                                    opacity: 1;
+                                                    transition: visibility ease 0s, opacity ease 5s;
+                                                    &.active {
+                                                        opacity: 0;
+                                                        transition: visibility ease 0s, opacity ease 5s;
+                                                    }
+                                                }
+                                                .profile__list {
+                                                    left: 0;
+                                                }
+                                                .basket-menu {
+                                                    left: -70px;
+                                                }
+                                                .basket__box .basket-menu::before {
+                                                    left: 70px;
+                                                }
+                                            }
+                                            .user__price span {
+                                                padding-right: 0px;
+                                            }
+                                            .user__icon {
+                                                margin-right: 10px;
+                                                margin-left: 28px;
+                                            }
+                                            .header__logo img {
+                                                display: none;
+                                            }
+                                            .logo-text {
+                                                padding-bottom: 20px;
+                                            }
+                                            .footer__social-text p {
+                                                margin-right: 10px;
+                                            }
+                                            .footer__copy-text {
+                                                display: block;
+                                                text-align: center;
+                                            }
+                                            .footer__social-link {
+                                                width: 90%;
+                                                text-align: center;
+                                            }
+                                            .money__support-text {
+                                                line-height: 28px;
+                                            }
+                                            .ready__title {
+                                                padding: 42px 15px 10px;
+                                                font-size: 25px;
+                                            }
+                                            .product-filter {
+                                                width: 220px;
+                                            }
+                                            .search__breadcrumbs-top input::placeholder {
+                                                font-size: 14px;
+                                            }
+                                            .pagination__list {
+                                                li:nth-child(4) {
+                                                    display: none;
+                                                }
+                                            }
+                                            .breadcrumbs h1 {
+                                                line-height: 34px;
+                                            }
+                                            .conditions {
+                                                &__columm-text p {
+                                                    line-height: 35px;
+                                                    font-size: 18px;
+                                                }
+                                            }
+                                            .blogs__item-inner {
+                                                .search__tabs {
+                                                    padding: 24px 36px;
+                                                }
+                                                .post__content-columms {
+                                                    padding: 20px 10px;
+                                                }
+                                            }
+                                            .blog-post {
+                                                &.sidebar__column {
+                                                    .col-blogpost {
+                                                        padding: 30px 0px 40px 30px;
+                                                    }
+                                                }
+                                                .search__title-inner {
+                                                    padding: 15px 33px;
+                                                }
+                                            }
+                                            .banner img {
+                                                width: 320px;
+                                            }
+                                            .error .error-text {
+                                                line-height: 40px;
+                                            }
+                                        }
+                                        
+                                        @media(min-width:1191px) {
+                                            .menu__list {
+                                                display: block !important;
+                                            }
+                                        }
